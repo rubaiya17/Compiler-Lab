@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+printf("Hello World");//Please remove comment
+printf("International Islamic University Chittagong");/*Please remove comment*/
+return 0;
+}
